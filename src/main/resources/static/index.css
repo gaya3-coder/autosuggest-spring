@@ -1,3 +1,20 @@
+body{
+    margin: 0px;
+}
 h1{
     color:brown;
+}
+
+.navbar{
+    border-style: solid;
+    border-width: 1px;
+    border-color:burlywood;
+    padding : 20px;
+    text-align: center;
+}
+
+.navbar a{
+    padding: 20px; 
+    text-decoration: underline;
+    color:blueviolet;
 }
